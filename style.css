@@ -1,7 +1,7 @@
 html,body{
   margin:0px;
   height:100%;
-  font-size: 1.5em; /* 1.5 times the parent element's font size */}
+  font-size: 25em; /* 1.5 times the parent element's font size */}
 .bg_heart{
   position:relative;
   top:0;
